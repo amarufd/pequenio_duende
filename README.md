@@ -1,4 +1,6 @@
-# pequenio_duende
+## pequenio_duende
 Extraccion de información del sitio: [URL_Sitio_Web]
 
-[informacion relevante para el uso de su codigo]
+[Informacón para el conocimiento de su proyecto]
+
+[Información relevante para el uso de su codigo]
