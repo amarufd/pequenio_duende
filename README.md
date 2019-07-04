@@ -1,6 +1,3 @@
-## pequenio_duende
-Extraccion de información del sitio: [URL_Sitio_Web]
+# Pequenio Duende
 
-[Informacón para el conocimiento de su proyecto]
-
-[Información relevante para el uso de su codigo]
+Conjunto de ejemplos de como usar la librería rvest de R en diferentes escenarios
